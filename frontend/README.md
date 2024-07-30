@@ -1,0 +1,1 @@
+This is the frontend of Remote Management Website built on React using Vite with Tailwind CSS for styling

@@ -1,0 +1,1 @@
+This is the backend of Remote Management Website built with TypeScript, Node and Express
